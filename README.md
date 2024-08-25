@@ -6,4 +6,4 @@
 <img src="Images/FrontImage.png" alt="Amazon" width="900"/>
 <img src="Images/BottomImage.png" alt="Amazon" width="900"/>
 
-Author - Mehak Tushar
+### Author - Mehak Tushar
